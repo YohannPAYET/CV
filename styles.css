@@ -1,0 +1,28 @@
+#liste1
+{
+    color: whitesmoke;
+}
+
+#liste2
+{
+    text-align: center;
+    border: 3px solid darkcyan;
+    box-shadow: 6px 6px 6px black;
+}
+@font-face 
+    {
+        font-family: "alex-brush";
+        src: url("polices/alex-brush/AlexBrush-Regular.ttf") format("truetype");
+        src: url("polices/alex-brush/AlexBrush-Regular.woff") format("woff");
+        
+        
+    }
+#liste3
+{
+    font-family: "alex-brush";
+}
+
+body
+{
+    background-image: url(images/fond.jpg);
+}
