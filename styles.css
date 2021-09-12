@@ -1,3 +1,8 @@
+body
+{
+    background-image: url(images/fond.jpg);
+}
+
 #liste1
 {
     color: whitesmoke;
@@ -13,16 +18,9 @@
     {
         font-family: "alex-brush";
         src: url("polices/alex-brush/AlexBrush-Regular.ttf") format("truetype");
-        src: url("polices/alex-brush/AlexBrush-Regular.woff") format("woff");
-        
-        
+        src: url("polices/alex-brush/AlexBrush-Regular.woff") format("woff");    
     }
 #liste3
 {
     font-family: "alex-brush";
-}
-
-body
-{
-    background-image: url(images/fond.jpg);
 }
